@@ -1,0 +1,287 @@
+html{
+
+line-height: 1.15;
+
+}
+header {
+	padding: 0;
+margin:0px;
+width: 100%;
+height: 80px;
+background: #00008B;
+
+}
+#logo{
+
+border-style: none;
+width: 165px;
+height: 80px;
+margin-left: 100px;
+margin-right: 100px;
+position: absolute;
+top: 8px;
+left: 0px;
+
+}
+
+body{
+
+font-family: roboto;
+
+}
+
+nav{
+
+display: inline-block;
+margin-left: 400px;
+margin-top: 30px;
+
+}
+
+a{
+
+color: white;
+text-decoration: none;
+font-weight: 2em;
+font-family: 'roboto';
+margin-right: 20px;
+padding: 30px;
+
+}
+
+a:hover{
+
+color: white;
+background: #09568d;
+padding: 30px;
+
+}
+
+#content{
+
+font-size: 24px;
+text-align: center;
+color: red;
+position: absolute;
+top:50%;
+left: 35%;
+
+}
+
+#slide{
+
+width: 100%;
+height: auto;
+
+}
+
+button{
+
+width: 50%;
+height: 50px;
+background: #172035;
+color: white;
+font-size: 2em;
+border:none;
+
+}
+
+#h1{
+
+font-size: 42px;
+
+}
+
+.course{
+
+width: 400px;
+height: 500px;
+background: white;
+border:1px solid transparent;
+position: absolute;
+top: 1244px;
+left: 250px;
+
+}
+
+.course2{
+
+width: 400px;
+height: 500px;
+background: white;
+border:1px solid transparent;
+position: absolute;
+top: 1244px;
+left: 700px;
+
+}
+
+.course3{
+
+width: 400px;
+height: 500px;
+background: wihte;
+border:1px solid transparent;
+position: absolute;
+top:1244px;
+left:1150px;
+
+}
+
+.img{
+
+height: 365px;
+width: 400px;
+
+}
+
+section#about{
+
+width: 100%;
+height: 500px;
+background: #252525;
+position: absolute;
+top:1800px; 
+left:0;
+
+}
+
+div.about{
+
+font-size: 40px;
+color: white;
+text-align: center;
+
+}
+
+.studets{
+
+font-size: 24px;
+width: 300px;
+height: 200px;
+background: black;
+text-align: center;
+color: white;
+position: absolute;
+top: 212px;
+left: 250px;
+
+}
+
+.reviews{
+
+font-size: 24px;
+width: 300px;
+height: 200px;
+background: black;
+text-align: center;
+color: white;
+position: absolute;
+top: 212px;
+left: 600px;
+
+}
+
+.courses{
+
+font-size: 24px;
+width: 300px;
+height: 200px;
+background: black;
+text-align: center;
+color: white;
+position: absolute;
+top: 212px;
+left: 951px;
+
+}
+
+.content{
+
+font-size: 24px;
+width: 300px;
+height: 200px;
+background: black;
+text-align: center;
+color: white;
+position: absolute;
+top: 212px;
+left: 1301px;
+
+}
+
+.h1l{
+
+	font-size: 40px;
+	position: absolute;
+	top: 2320px;
+	left: 40%;
+}
+
+.learntechnow{
+
+width: 400px;
+height: 500px;
+background: white;
+border:1px solid transparent;
+position: absolute;
+top: 2500px;
+left: 250px;
+
+}
+
+.learntechpodcast{
+
+width: 400px;
+height: 500px;
+background: white;
+border:1px solid transparent;
+position: absolute;
+top: 2500px;
+left: 700px;
+
+}
+
+.learntechblog{
+
+width: 400px;
+height: 500px;
+background: white;
+border:1px solid transparent;
+position: absolute;
+top: 2500px;
+left: 1150px;
+
+}
+
+#footer{
+
+width: 100%;
+height: 80px;
+background: #172035;
+position: absolute;
+top: 3100px;
+left:0px;
+
+}
+
+.fo{
+
+border-style: none;
+width: 165px;
+height: 70px;
+margin-left: 100px;
+margin-right: 100px;
+position: absolute;
+top: 6px;
+left: 0px;
+
+}
+
+#p{
+
+text-align: center;
+color: white;
+font-size: 26px
+
+}
